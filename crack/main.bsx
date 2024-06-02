@@ -1,0 +1,18 @@
+mf a be "gay sex" rn
+waffle(a)
+
+yap("Do you fw skibbidi toilet? (y/n) > ")(bruh(b) {
+    sus(b fr "y") {
+        fetch("http://ip.pingusmc.org")(bruh(data) {
+            waffle(data)
+        })
+    } impostor {
+        yap("What ip do you wanna look up? > ")(bruh(x) {
+            lit ip be strcon("ip=", x) rn
+
+            fetch("http://ip.pingusmc.org", { method: "POST", body: ip, x, content_type: "application/x-www-form-urlencoded"})(bruh(data) {
+                waffle(data)
+            })
+        })
+    }
+})
